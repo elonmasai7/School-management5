@@ -1,0 +1,51 @@
+INFO 2023-03-07 04:47:55,710 Watching for file changes with StatReloader
+INFO 2023-03-07 04:54:18,689 Watching for file changes with StatReloader
+INFO 2023-03-07 04:55:22,814 "GET / HTTP/1.1" 302 0
+INFO 2023-03-07 04:55:22,814 "GET / HTTP/1.1" 302 0
+INFO 2023-03-07 04:55:26,503 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2023-03-07 04:55:26,725 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2023-03-07 04:55:28,769 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2023-03-07 04:55:28,893 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9064
+INFO 2023-03-07 04:55:28,971 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2023-03-07 04:55:29,073 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686718
+INFO 2023-03-07 04:55:29,966 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2023-03-07 04:55:30,070 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2023-03-07 04:55:30,072 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2023-03-07 04:55:30,103 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2023-03-07 04:55:30,107 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2023-03-07 04:55:31,105 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2023-03-07 04:55:31,143 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2023-03-07 04:55:31,143 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2023-03-07 04:55:32,713 "GET /static/dist/img/login.png HTTP/1.1" 200 445475
+INFO 2023-03-07 04:55:36,247 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+WARNING 2023-03-07 04:55:36,251 Not Found: /favicon.ico
+WARNING 2023-03-07 04:55:36,404 Not Found: /admin/
+WARNING 2023-03-07 04:55:36,404 "GET /admin/ HTTP/1.1" 404 6187
+INFO 2023-03-07 04:56:42,065 "POST /accounts/login/ HTTP/1.1" 200 4114
+INFO 2023-03-07 05:01:26,119 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2023-03-07 05:01:26,269 "GET / HTTP/1.1" 200 9298
+INFO 2023-03-07 05:01:26,554 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 200 25807
+INFO 2023-03-07 05:01:26,704 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 200 2042927
+INFO 2023-03-07 05:01:26,756 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+INFO 2023-03-07 05:02:14,267 "GET /site-config HTTP/1.1" 200 10873
+INFO 2023-03-07 05:02:55,382 "POST /site-config HTTP/1.1" 200 10896
+INFO 2023-03-07 05:03:03,748 "GET / HTTP/1.1" 200 9298
+INFO 2023-03-07 05:03:08,331 "GET /current-session/ HTTP/1.1" 200 10606
+INFO 2023-03-07 05:03:27,755 "GET /session/create/?next=current-session/ HTTP/1.1" 200 10182
+INFO 2023-03-07 05:03:37,838 "POST /session/create/?next=current-session/ HTTP/1.1" 302 0
+INFO 2023-03-07 05:03:37,971 "GET /session/list/ HTTP/1.1" 200 12782
+INFO 2023-03-07 05:03:51,662 "GET /student/list HTTP/1.1" 200 9955
+INFO 2023-03-07 05:03:56,495 "GET /staff/list/ HTTP/1.1" 200 9696
+INFO 2023-03-07 05:03:59,003 "GET /finance/list/ HTTP/1.1" 200 10356
+INFO 2023-03-07 05:04:05,570 "GET /result/create/ HTTP/1.1" 200 10924
+INFO 2023-03-07 05:04:08,086 "GET /result/edit-results/ HTTP/1.1" 200 10113
+INFO 2023-03-07 05:04:12,553 "GET /class/list/ HTTP/1.1" 200 11980
+INFO 2023-03-07 05:04:16,619 "GET /subject/list/ HTTP/1.1" 200 11691
+INFO 2023-03-07 05:04:20,477 "GET /session/list/ HTTP/1.1" 200 12637
+INFO 2023-03-07 05:04:23,327 "GET /student/list HTTP/1.1" 200 9955
+INFO 2023-03-07 05:06:29,645 "GET / HTTP/1.1" 200 9299
+INFO 2023-03-07 05:07:16,768 "GET /student/list HTTP/1.1" 200 9955
+INFO 2023-03-07 05:07:19,501 "GET /student/create/ HTTP/1.1" 200 13696
+INFO 2023-03-07 05:08:14,723 "POST /student/create/ HTTP/1.1" 302 0
+INFO 2023-03-07 05:08:14,851 "GET /student/4/ HTTP/1.1" 200 11314
+INFO 2023-03-07 05:08:15,207 "GET /media/students/passports/Screenshot_from_2023-01-19_16-42-34.png HTTP/1.1" 200 135173
